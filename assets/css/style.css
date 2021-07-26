@@ -369,3 +369,43 @@ padding-bottom: 15px;
 .end {
   background-color: #E3EEED;
 }
+
+.adress {
+  background-color: #214E41;
+}
+
+.endrow {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+ 
+
+}
+
+
+
+.jb {
+font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 169%;
+/* identical to box height, or 169% */
+color: #FFFFFF;
+}
+
+.linkjoin {
+color: #FFFFFF;
+}
+
+.get {
+font-family: Raleway;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 185%;
+/* identical to box height, or 185% */
+letter-spacing: 0.02px;
+text-transform: uppercase;
+color: #FFFFFF;
+}
